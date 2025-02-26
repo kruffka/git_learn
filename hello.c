@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
 
     printf("hello stage\n");
     return 0;//saddsa
