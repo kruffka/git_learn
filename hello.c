@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void print() {
+    printf("hello");
+}
+
 int main(void) {
 //123
     printf("hello stage\n");
